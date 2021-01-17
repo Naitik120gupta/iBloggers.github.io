@@ -1,0 +1,31 @@
+.contact{
+    background-image:url(comp.jpg);
+    margin: 159px 148px 0px;
+    display: grid;
+}.input-text{
+    height: 35px;
+    width: 660px;
+    margin: 8px 68px 5px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    color: black;
+    padding: 8px;
+    font-size: 1.25em
+}#big{
+    /*height: 250px;*/
+    padding: 0px 8px 265px;
+}.btn-1{
+    width: 94px;
+    margin: 13px 68px 123px;
+    height: 28px;
+    transition: all 0.3s ease-in-out;
+    padding: 8px 24px 26px;
+}.title{
+    margin:16px 66px 8px;
+}.btn-1:hover{
+    background-color:rgb(167, 96, 4);
+    cursor: pointer;
+    color: white;
+}form{
+  padding:0px -16px 23px;
+}
